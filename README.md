@@ -1,7 +1,5 @@
 # EthKL_Depin_Octo: DePIN + DVPN
 
-[Main Project Link](https://your-project-link-here.com)
-
 ## Deployed Addresses
 
 ### Manta Network (Sepolia Testnet)
