@@ -15,3 +15,6 @@
 ### The Graph
 
 - Okto Contract Graph: [https://api.studio.thegraph.com/query/86101/okto/v0.0.1](https://api.studio.thegraph.com/query/86101/okto/v0.0.1)
+
+### APK URL:
+[OKTO APP](https://drive.google.com/file/d/1fFtMaVbJxGT5BKTjmg8dBG2YzkWfR8DB/view?usp=sharing)
